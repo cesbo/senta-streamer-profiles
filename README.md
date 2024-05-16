@@ -1,8 +1,8 @@
 # senta-streamer-profiles
 
-Simple profiles for senta streamer [senta.tv](senta.tv)
+Simple profiles for senta streamer [senta.tv](https://senta.tv)
 
-Join us telegram group [https://t.me/sentastreameralphatest]()
+Join us telegram group [@sentastreameralphatest](https://t.me/sentastreameralphatest)
 
 ---
 
